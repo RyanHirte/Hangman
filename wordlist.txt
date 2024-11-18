@@ -1,0 +1,6 @@
+cat
+car
+bakery
+mango
+apple
+sausage

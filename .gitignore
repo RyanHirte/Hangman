@@ -1,0 +1,37 @@
+# Object files
+*.o
+*.obj
+*.lo
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Build directories
+build/
+bin/
+Debug/
+Release/
+
+# Temporary files
+*.tmp
+*.bak
+*~
+\#*\#
+
+# IDE-specific files
+.vscode/
+.idea/
+*.sln
+*.vcxproj
+*.vcxproj.filters

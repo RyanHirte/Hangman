@@ -6,12 +6,10 @@
 using namespace std;
 int main()
 {
+  // create the reader for the wordlist file
   FileReader reader("../wordlist.txt");
+  // store the words from the wordlist file
   vector<string> wordlist = reader.read();
-  for (string word : wordlist)
-  {
-    cout << word << endl;
-  }
 
   return 0;
 }
